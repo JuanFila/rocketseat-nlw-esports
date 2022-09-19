@@ -2,7 +2,6 @@
 
 Evento da [Rocketseat](https://www.rocketseat.com.br). Aplicação Full Stack para conectar jogadores.
 
-![games](.github/games.PNG)
 
 ## Requisitos
 
