@@ -2,7 +2,7 @@
 
 Evento da [Rocketseat](https://www.rocketseat.com.br). Aplicação Full Stack para conectar jogadores.
 
-<img src="rocketseat-nlw-esports/Imagens projeto final/web/games.PNG" alt="Projeto final"/>
+![games](.github/games.PNG)
 
 ## Requisitos
 
