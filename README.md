@@ -2,6 +2,18 @@
 
 Evento da [Rocketseat](https://www.rocketseat.com.br). Aplicação Full Stack para conectar jogadores.
 
+## Web
+ <img src="./Imagens projeto final/web/games.PNG">
+ <img src="./Imagens projeto final/web/anuncio.PNG">
+
+
+## Mobile
+
+<img src="./Imagens projeto final/mobile/game1.jpg">
+<img src="./Imagens projeto final/mobile/game2.jpg">
+<img src="./Imagens projeto final/mobile/anuncios.jpg">
+<img src="./Imagens projeto final/mobile/discord.jpg">
+<img src="./Imagens projeto final/mobile/alerta.jpg">
 
 ## Requisitos
 
